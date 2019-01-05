@@ -1,4 +1,3 @@
-alert("fuck");
 function AddMarker(x,y,name)
 {
   var myIcon = new BMap.Icon("images/PointBlue.png", new BMap.Size(20,25));
